@@ -6,7 +6,12 @@
 
 ## **Download the dataset:**
 
-To download the dataset for non-commerical research please fill out the request form [here](https://drive.google.com/drive/folders/13_IOnwBEdBk5DZvxPNa-Tgm9Ssfd5DXT?usp=sharing) and email the duly filled [license agreement](!agreement) to `bhavinja@buffalo.edu`. We will send a link to download the dataset after reviewing the request. 
+To download the dataset for non-commerical research please fill out the request form [here](https://drive.google.com/drive/folders/13_IOnwBEdBk5DZvxPNa-Tgm9Ssfd5DXT?usp=sharing) and email the duly filled [license agreement](!agreement) to `bhavinja@buffalo.edu`. We will send the password for the zip after reviewing the request. 
+
+**Unzip the dataset:**
+```
+unzip -P <password> RidgeBase.zip
+```
 
 For any queries please email: `bhavinja@buffalo` or `cubs@buffalo.edu`.
 
