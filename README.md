@@ -136,6 +136,9 @@ We would like to thank all the participants involved in the study. This project 
 If you use RidgeBase dataset in your research please cite our paper:
 
 ```
-B. Jawade, D. Mohan, S. Setlur, N. Ratha and V. Govindaraju, "RidgeBase: A Cross-Sensor Multi-Finger Contactless Fingerprint Dataset," 2022 IEEE International Joint Conference on Biometrics (IJCB), 2022
+B. Jawade, D. Mohan, S. Setlur, N. Ratha and V. Govindaraju
+"RidgeBase: A Cross-Sensor Multi-Finger Contactless Fingerprint
+Dataset," 2022 IEEE International Joint Conference on Biometrics
+(IJCB), 2022
 
 ```
