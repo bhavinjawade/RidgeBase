@@ -6,7 +6,7 @@
 
 ## **Download the dataset:**
 
-To download the dataset for non-commerical research please fill out the request form below [here](!formlink) and email the duly filled [license agreement](!agreement) to `bhavinja@buffalo.edu`. We will send a link to download the dataset after the reviewing the request. 
+To download the dataset for non-commerical research please fill out the request form [here](!https://drive.google.com/drive/folders/13_IOnwBEdBk5DZvxPNa-Tgm9Ssfd5DXT?usp=sharing) and email the duly filled [license agreement](!agreement) to `bhavinja@buffalo.edu`. We will send a link to download the dataset after reviewing the request. 
 
 For any queries please email: `bhavinja@buffalo` or `cubs@buffalo.edu`.
 
@@ -121,6 +121,10 @@ RidgeBase
    > <span style="color:red">Note:</span>: These mappings are for evaluation only. Training set pairs can be created from Task 1 training set. 
 
    File name conventions are same as Task 1. 
+
+## Acknowledgement
+
+We would like to thank all the participants involved in the study. This project was funded by NSF CITeR 
 
 # BibTex:
 
