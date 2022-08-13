@@ -133,7 +133,7 @@ We would like to thank all the participants involved in the study. This project 
 
 # BibTex:
 
-If you use RidgeBase dataset in your research please cite our paper (To be updated):
+If you use RidgeBase dataset or the associated app in your research please cite our paper:
 
 **Plain Text:**
 
