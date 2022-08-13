@@ -129,7 +129,7 @@ RidgeBase
 
 ## Acknowledgement
 
-We would like to thank all the participants involved in the study. This project was funded by NSF CITeR 
+This work was conducted at the Center for Unified Biometrics and Sensors (CUBS) at the University at Buffalo and was supported by the Center for Identification Technology Research (CITeR) and the National Science Foundation through grant #1822190.
 
 # BibTex:
 
