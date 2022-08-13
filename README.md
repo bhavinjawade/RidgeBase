@@ -135,10 +135,29 @@ We would like to thank all the participants involved in the study. This project 
 
 If you use RidgeBase dataset in your research please cite our paper (To be updated):
 
-```
+Plain Text:
+`
 B. Jawade, D. Mohan, S. Setlur, N. Ratha and V. Govindaraju
 "RidgeBase: A Cross-Sensor Multi-Finger Contactless Fingerprint
 Dataset," 2022 IEEE International Joint Conference on Biometrics
 (IJCB), 2022
 
+`
+```
+@book{jawade2022ridgebase,
+ author = "B. Jawade and D. Mohan and S. Setlur and N. Ratha and V. Govindaraju",
+ title = "RidgeBase: A Cross-Sensor Multi-Finger Contactless Fingerprint Dataset",
+ publisher = "2022 {IEEE} International Joint Conference on Biometrics ({IJCB})",
+ year = 2022
+}
+```
+
+Plain Text:
+`
+B. Jawade, A. Agarwal, S. Setlur and N. Ratha, "Multi Loss Fusion For Matching Smartphone Captured Contactless Finger Images,"
+2021 IEEE International Workshop on Information Forensics and Security (WIFS), 2021,
+pp. 1-6, doi:10.1109/WIFS53200.2021.9648393.
+`
+```
+@INPROCEEDINGS{9648393,  author={Jawade, Bhavin and Agarwal, Akshay and Setlur, Srirangaraj and Ratha, Nalini},  booktitle={2021 IEEE International Workshop on Information Forensics and Security (WIFS)},   title={Multi Loss Fusion For Matching Smartphone Captured Contactless Finger Images},   year={2021},  volume={},  number={},  pages={1-6},  doi={10.1109/WIFS53200.2021.9648393}}
 ```
