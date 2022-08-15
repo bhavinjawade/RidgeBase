@@ -6,7 +6,7 @@
 
 ## **Download the dataset:**
 
-To download the dataset for research please [click here](https://drive.google.com/drive/folders/13_IOnwBEdBk5DZvxPNa-Tgm9Ssfd5DXT?usp=sharing) and email the duly filled [license agreement](!agreement) to `bhavinja@buffalo.edu`. We will send the password for the zip after reviewing the request. 
+To download the dataset for research please email the duly filled [license agreement](!agreement) to `bhavinja@buffalo.edu`. We will send the zip file and password after reviewing the request. 
 
 **Unzip the dataset:**
 ```
