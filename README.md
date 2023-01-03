@@ -86,6 +86,15 @@ RidgeBase
 ```
 
 ## Task Specific Details:
+
+```
+FingerID Mapping:
+0 - Index
+1 - Middle
+2 - Ring
+3 - Little
+```
+
 1. Task 1:
 
     **Contactbased:** `<SessionID>_<IdentityID>_<HandID>_<FingerID>`. 
