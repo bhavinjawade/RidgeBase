@@ -2,6 +2,8 @@
 
 ![RidgeBase](./images/coverimage.png "RidgeBase")
 
+Source code for the associated app used for data collection can be found here: https://github.com/bhavinjawade/RidgeBase_Fingerprint_Camera_App
+
 > **Paper accepted in IJCB 2022.**
 
 ## **Download the dataset:**
